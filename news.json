@@ -15,16 +15,16 @@
   },
   {
     "id": 3,
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+    "title": "Apesar de derrotas, Pia mantém confiança na seleção: Estaremos prontas para a Copa América",
+    "description": "Treinadora lamenta chances perdidas contra a Suécia e queda de rendimento físico da equipe.",
+    "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
     "id": 4,
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+    "title": "Brasileirão Feminino Série A-3: Taubaté volta a vencer o Vila Nova-ES e está nas quartas de final",
+    "description": "Aline, duas vezes, e Baiana marcaram os gols do time paulista no Joaquinzão",
+    "image": "https://s2.glbimg.com/YVaEUchyIU86OAc8CceZGRHzQnQ=/0x0:1280x851/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/2/zZByVUT2mvlXreRBAQgw/whatsapp-image-2022-07-09-at-19.42.30.jpeg",
+    "link": "https://ge.globo.com/es/futebol/noticia/2022/07/09/brasileirao-feminino-serie-a-3-taubate-volta-a-vencer-o-vila-nova-es-e-esta-nas-quartas-de-final.ghtml"
   }
 ]
